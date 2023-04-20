@@ -1,0 +1,98 @@
+body{
+    border: 0%;
+    margin: 0%;
+    padding: 0%;
+    color: white !important;
+    background-color: black !important;
+}
+
+h2{
+    padding: 3%;
+    text-align: center;
+    font-weight: bolder !important;
+    font-family: 'Ubuntu', sans-serif, bold;
+}
+
+h3{
+    font-weight: bolder !important;
+    font-family: 'Ubuntu', sans-serif,bold;
+}
+
+footer {
+    background-color: #00aae4;
+    height: 80px;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: justify;
+}
+
+.navbar {
+    margin-left: 10%;
+    z-index: 1000;
+    position: relative;
+}
+
+.navbar a{
+    color: white !important;
+}
+
+.navbar .menu{
+    margin-right: 10% ; 
+}
+
+
+.carousel {
+    z-index: 1;
+    margin-top: -4%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+.carousel img{
+    width: 100%;
+    height: 650px;
+}
+
+.icono{
+    font-size: 25px;
+    background-color: #00aae4;
+}
+
+.destacado .imagen{
+    width: 100%;
+    height: 250px;
+}
+
+.destacado {
+    border: 1px solid white;
+    background-color: #00aae4;
+    text-align: left;
+}
+
+.destacado .descripcion{
+    padding: 3%;
+}
+
+.destacado p{
+    text-align: left;
+}
+
+.formulario{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+footer .tituloFooter{
+    margin-top: 4%;
+}
+
+footer i {
+    margin-top: 4%;
+    margin-left: 4%;
+    font-size: 35px;
+}
